@@ -7,7 +7,7 @@ Cloaker is a simple windows utility written in C to allow the cloaking an decloa
  1. Get the latest .zip release of Cloaker from the [releases](https://github.com/SteveOhIo/Cloaker/releases) tab
  2. Create a new folder in your program files called **Cloaker**
  3. Extract the contents of the .zip to your **Cloaker** folder
- 4. Open an instance of Windows Powershell as an administrator
+ 4. Open an instance of Windows Powershell as an administrator inside the **Cloaker** folder
  5. Run this powershell command to temporarily bypass restrictions on unsigned scripts:
 
         Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
